@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: beige;
+}
+
+img{
+    width: 200px;
+}
+
+table{
+    width: 1800px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.abc{
+    text-align: left
+}
+.def{
+    text-align: right;
+}
