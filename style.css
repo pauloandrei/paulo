@@ -1,14 +1,10 @@
 body{
-    background-color: black;
-    color: beige;
-}
-
-img{
-    width: 200px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 table{
-    width: 1800px;
+    width: 100px;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -18,4 +14,13 @@ table{
 }
 .def{
     text-align: right;
+}
+
+.shape{
+    width: 2S00px;
+    }
+
+.roda{
+    width: 200px
+    .ro;
 }
