@@ -1,26 +1,55 @@
-body{
-    background-color: rgb(255, 255, 255);
+body {
+    background-color: (transparent);
     color: rgb(0, 0, 0);
 }
 
-table{
+table {
     width: 100px;
     justify-content: center;
-    align-items: center;
+    align-items: center
     text-align: center;
+    b
 }
-.abc{
+
+.abc {
     text-align: left
 }
-.def{
+
+.def {
     text-align: right;
 }
 
-.shape{
-    width: 2S00px;
-    }
+.shape {background-color: transparent;
+    width: 300px;
+}
 
-.roda{
-    width: 200px
-    .ro;
+.roda {
+    width: 200px;
+}
+
+.truck {
+    width: 200px;
+}
+
+.lixa {
+    width: 150px;
+}
+
+.parafuso {
+    width: 200px;
+}
+
+.rolamento {
+    width: 200px;
+}
+
+
+.table1 {
+    align-items: center;
+    width: 1500px;
+    height: 800px;
+}
+
+body {
+    background-image: url(https://conteudo.imguol.com.br/c/tab/47/2019/04/10/o-final-da-producao-e-a-flor-seca-da-maconha-popularmente-conhecida-como-camarao-1554939729394_v2_4x3.jpg);
 }
