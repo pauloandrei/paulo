@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+table{
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.abc{
+    text-align: left
+}
+.def{
+    text-align: right;
+}
+
+.shape{
+    width: 2S00px;
+    }
+
+.roda{
+    width: 200px
+    .ro;
+}
+img{padding-left: 700px;}
+table{padding-top: 200px;}
