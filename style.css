@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: bisque;
     color: rgb(0, 0, 0);
+    
 }
 
 table{
@@ -24,5 +25,4 @@ table{
     width: 200px
     .ro;
 }
-img{padding-left: 700px;}
-table{padding-top: 200px;}
+.h1{color: aqua;}
